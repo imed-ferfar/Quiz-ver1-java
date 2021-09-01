@@ -75,6 +75,7 @@ class PanneauAjoutQuesImg	Classe qui hérite de JPanel, c’est un panneau qui p
 class PanneauAjoutQuesRes	Classe qui hérite de JPanel, c’est un panneau qui permet de manipuler une question de trouver le résultat d’exécution
 <h3>III-	Captures d’écran</h3>
 III-	Captures d’écran
+  
 ![image](https://user-images.githubusercontent.com/72523491/131723492-21d9e89a-c9d9-40f6-bc8a-58308d6a2dfe.png)
   
   ![image](https://user-images.githubusercontent.com/72523491/131723505-79e7d48e-fda3-4d5d-894e-6ff566396678.png)
