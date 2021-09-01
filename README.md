@@ -100,7 +100,9 @@ III-	Captures d’écran
 Pour conclure, un projet quelconque ne peut avoir une version finale, mais plutôt une version stable. Je peux dire que mon modeste projet représente une version initiale qui peut être améliorée, avec quelques d’autres fonctionnalités que je voulais les inclure mais malheureusement je n’ai pas eu le temps nécessaire (ex. l’i18n non complétée qui nécessite une modification de conception). Mais quand même j’ai essayé d’appliquer les différents concepts qu’on a vu durant les deux sessions (héritage, implémentation, collection, gestion des exceptions, manipulation des fichiers … etc.).
 
   <h2>Annexe I : Diagramme de cas d’utilisation</h2>
+  
 ![image](https://user-images.githubusercontent.com/72523491/131723671-8138b24c-1c79-4d24-a384-1bb019c7c2d5.png)
 
   <h2>Annexe II : Diagramme de classes de conception</h2>
+  
 ![image](https://user-images.githubusercontent.com/72523491/131723701-ae0e4ba1-ccd2-4f0f-9992-04dfa895fa60.png)
