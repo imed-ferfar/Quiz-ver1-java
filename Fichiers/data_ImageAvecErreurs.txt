@@ -1,0 +1,11 @@
+11#Trouver l'erreur dans ce code#/images/ImageCinqErreurs/question011.png#1
+18#Trouver l'erreur dans ce code#/images/ImageCinqErreurs/question18.png#1
+19#Trouver l'erreur dans ce code#/images/ImageCinqErreurs/question19.png#1
+20#Trouver l'erreur dans ce code#/images/ImageCinqErreurs/question20.png#1
+21#Trouver l'erreur dans ce code#/images/ImageCinqErreurs/question21.png#1
+22#Trouver l'erreur dans ce code#/images/ImageCinqErreurs/question22.png#1
+23#Trouver l'erreur dans ce code#/images/ImageCinqErreurs/question23.png#1
+24#Trouver l'erreur dans ce code#/images/ImageCinqErreurs/question24.png#1
+25#Trouver l'erreur dans ce code#/images/ImageCinqErreurs/question25.png#1
+26#Trouver l'erreur dans ce code#/images/ImageCinqErreurs/question26.png#1
+27#Trouver l'erreur dans ce code#/images/ImageCinqErreurs/question27.png#1

@@ -1,0 +1,6 @@
+12#Trouver le resultat d'execution de ce code#String message = "bonjour";_System.out.println(message.toUpperCase());#BONJOUR
+13#Trouver le resultat d'execution de ce code#int val = (int) (Math.random() * (2));_System.out.println("val");#val
+16#Trouver le resultat d'execution de ce code#int val = 10 / 3 ;_System.out.println(val);#3
+28#Trouver le resultat d'execution de ce code#public static void main(String[] args) {_        int i = 11;#11
+29#Trouver le resultat d'execution de ce code#public static void main(String[] args) {_        int i = 11;_        while (i>10)_            i--;#10
+30#Trouver le resultat d'execution de ce code#public static void main(String[] args) {_        int i = 20;_        String j="12";_        while ((i>10) &&(!j.equals(String.valueOf(i))))#12

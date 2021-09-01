@@ -1,0 +1,11 @@
+11#7#return#return
+18#1#void#String
+19#1#extend#extends
+20#5#throw#throws
+21#8#throws#throw
+22#5#arg#args
+23#1#int#double
+24#2#==#=
+25#1#extends#implements
+26#10#add#put
+27#4#abstract#static
